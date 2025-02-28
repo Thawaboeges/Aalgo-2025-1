@@ -1,0 +1,13 @@
+import time
+
+def fibonacci(n):
+    if n <= 1:
+        return n
+    else:
+        return fibonacci(n-1) + fibonacci(n-2)# Cria uma função recursiva utilizando os conceitos de fibonaci
+
+numero = int(input("Calcular o valor N para a sequência de Fibonacci: ")) #realizar a captura do numero digitado pelo usuario, esse numero no caso seria um inteiro
+
+resultado = fibonacci(numero) #estabelece o resultado da função
+
+print(f"O {numero}º número da sequência de Fibonacci é {resultado}") #captura e mostra ao usuario o resultado
