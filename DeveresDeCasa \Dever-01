@@ -36,3 +36,13 @@ for size in test_sizes:
     exec_time = measure_time(size)
     results[size] = exec_time
     print(f"Tempo para ordenar {size} elementos: {exec_time:.6f} segundos")
+
+
+
+
+
+Teste
+Tempo para ordenar 100 elementos: 0.000283 segundos
+Tempo para ordenar 1000 elementos: 0.003068 segundos
+Tempo para ordenar 10000 elementos: 0.036175 segundos
+Tempo para ordenar 100000 elementos: 0.455572 segundos
