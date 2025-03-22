@@ -1,1 +1,10 @@
+1) Merge Sort
+Algoritmo de ordenação baseado em divisão e conquista. Sua complexidade geralmente é O(n log n).
+2) Multiplicação de matrizes
+Dependendo do método, a complexidade pode variar.
+3) Resolução de recorrências 
+Resolver as equações apresentadas para encontrar suas complexidades assintóticas.
+a) 2T(n/4)+ √n​ complexidade de (√n log n)
+b) 2T(n/4)+ n​ complexidade de O(n)
+c) 2T(n/4)+ n^2 complexidade O(n^2 log n)
 
