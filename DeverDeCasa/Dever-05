@@ -6,5 +6,5 @@ Dependendo do método, a complexidade pode variar.
 Resolver as equações apresentadas para encontrar suas complexidades assintóticas.
 a) 2T(n/4)+ √n​ complexidade de O(√n log n)
 b) 2T(n/4)+ n​ complexidade de O(n)
-c) 2T(n/4)+ n^2 complexidade O(n^2 log n)
+c) 16T(n/4)+ n^2 complexidade O(n^2 log n)
 
